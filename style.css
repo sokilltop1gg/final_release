@@ -1,0 +1,44 @@
+header img{
+  width: 150px;  height: 100px;
+  margin: 15px 10px 10px 10px ;
+  
+}
+header{
+    background-color: #72EE95;
+}
+h1{
+    margin:-30px 10px 50px 500px ;
+    font-size: 40px;
+}
+.honor{
+    font-size: 40px;
+}
+footer{
+    background-color: #5C824A;
+}
+
+body {
+    background-image: linear-gradient(#72EE95,#5C824A);
+    font-family: sans-serif;
+    font-size:20px;
+   
+}
+.logica{
+    width: 150px;
+    height: 130px;
+    border-radius: 50px;
+
+}
+.dora{
+    left:78%;
+    bottom: 15%;
+
+
+    
+    position: absolute;
+}
+.lora{
+    display:inline;
+    border-radius: 50%;
+}
+
